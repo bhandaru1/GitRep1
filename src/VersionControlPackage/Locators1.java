@@ -18,7 +18,7 @@ public class Locators1 {
 		
 		 driver.findElement(By.id("email")).sendKeys("Enter Email ID");
 		 driver.findElement(By.name("pass")).sendKeys("Enter Password");
-		 //made changes in SandBox
+		 //made Op2 changes in SandBox
 		 /*driver.findElement(By.linkText("Forgot account?")).click();
 		 * driver.navigate().back();
 		 * driver.findElement(By.id("u_0_e")).sendKeys("Enter First Name");
