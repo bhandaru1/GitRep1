@@ -12,6 +12,10 @@ public class BasicJava1 {
 		int Sum=a+b;
 		System.out.println(Sum);//treats as variable with out double quotes
 		System.out.println("Sum is" +Sum);
+		System.out.println("Sum is" +Sum);
+		System.out.println("Sum is" +Sum);
+		System.out.println("Sum is" +Sum);
+		System.out.println("Sum is" +Sum);
 				
 
 	}
