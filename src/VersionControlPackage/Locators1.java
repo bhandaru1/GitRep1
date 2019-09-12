@@ -15,10 +15,11 @@ public class Locators1 {
 		driver.findElement(By.cssSelector("#pass")).sendKeys("Password");
 		driver.findElement(By.cssSelector("#u_0_2")).click();
 
-		/*
-		 * driver.findElement(By.id("email")).sendKeys("Enter Email ID");
-		 * driver.findElement(By.name("pass")).sendKeys("Enter Password");
-		 * driver.findElement(By.linkText("Forgot account?")).click();
+		
+		 driver.findElement(By.id("email")).sendKeys("Enter Email ID");
+		 driver.findElement(By.name("pass")).sendKeys("Enter Password");
+		 //made changes
+		 /*driver.findElement(By.linkText("Forgot account?")).click();
 		 * driver.navigate().back();
 		 * driver.findElement(By.id("u_0_e")).sendKeys("Enter First Name");
 		 * driver.findElement(By.name("lastname")).sendKeys("Enter Last Name");
